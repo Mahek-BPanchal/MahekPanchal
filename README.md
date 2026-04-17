@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Mahek Panchal
+# Mahek Panchal
 ### Full-Stack Developer | Machine Learning Enthusiast | Researcher
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42A5F5&width=435&lines=Building+the+future+with+Code;Transforming+ideas+into+Reality;Exploring+the+depths+of+AI+%26+CV)](https://git.io/typing-svg)
@@ -16,9 +16,19 @@
 ### </> About Me
 I am an undergraduate researcher and developer dedicated to creating high-impact digital solutions. I specialize in bridging the gap between complex backend logic and intuitive frontend experiences, with a heavy focus on clean architecture and deep learning applications.
 
-* 🔗 **In Progress:** Developing "AutoInspect AI" – an automated vehicle inspection system.
-* 🔗 **Collaborations:** Interested in Open Source, Computer Vision (YOLO), and Blockchain.
-* 🔗 **Fun Fact:** I believe the best code is the kind that makes you ask, "How did they think of this?" — and then pushes you to think just as creatively.
+*  **In Progress:** Developing "AutoInspect AI" – an automated vehicle inspection system.
+*  **Collaborations:** Interested in Open Source, Computer Vision (YOLO), and Blockchain.
+*  **Fun Fact:** I believe the best code is the kind that makes you ask, "How did they think of this?" — and then pushes you to think just as creatively.
+
+#### </> Connect with Me
+<p align="left">
+  <a href="Mahek_Panchal_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Mahek_Panchal_Resume-42A5F5?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="CV" />
+  </a>
+  <a href="https://www.linkedin.com/in/mahekpanchal/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
