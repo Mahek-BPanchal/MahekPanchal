@@ -22,9 +22,6 @@ I am an undergraduate researcher and developer dedicated to creating high-impact
 
 #### </> Connect with Me
 <p align="left">
-  <a href="Mahek_Panchal_CV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Mahek_Panchal_Resume-42A5F5?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="CV" />
-  </a>
   <a href="https://www.linkedin.com/in/mahekpanchal/" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
